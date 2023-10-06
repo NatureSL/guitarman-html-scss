@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'MontserratT';
+  src: url("@fonts/Montserrat/Montserrat-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'MontserratT';
+  src: url("@fonts/Montserrat/Montserrat-SemiBold.ttf");
+  font-weight: bold;
+  font-style: normal;
+}
+// module export
+$font-family: MontserratT, sans-serif;
